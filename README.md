@@ -1,11 +1,78 @@
-- 👋 Hi, I’m @isumit22
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning C++ with DSA
-- 📫 How to reach me 
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Sumit Chaubey</h1>
+<h3 align="center">A Student at GL Bajaj Institute | Aspiring Developer 🚀</h3>
 
-<!---
-isumit22/isumit22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🌱 I’m currently learning <b>C++</b> and exploring <b>Data Structures & Algorithms</b><br>
+  💡 Interested in <b>Web Development</b> and building user-friendly applications.<br>
+  💼 Pursuing my <b>B.Tech</b> at GL Bajaj Institute.<br>
+  😍 Check out my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!<br>
+  🙂 Pronouns: He/His<br>
+  ⚡ Fun fact: I love solving puzzles and coding challenges! 💼
+</p>
+
+---
+
+## 🛠 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/C%20-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&theme=tokyonight" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isumit22&theme=tokyonight" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=tokyonight" width="49.5%"/>
+</p>
+
+---
+
+## 🚀 **My Coding Journey**
+```plaintext
+| 📆  Started coding in C and C++ during my B.Tech at GL Bajaj Institute.
+| 🚀  Currently mastering DSA to improve problem-solving skills.
+| 💡  Building projects and exploring front-end web technologies.
+| 🔭  Check out my portfolio for live projects!
+| 🔥  Aiming to contribute to open-source and collaborate with developers worldwide.
+```
+
+---
+
+## 📂 **Recent Activity**
+<!--START_SECTION:activity-->
+1. 💡 Built and launched my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!
+2. 📖 Learned about Linked Lists and Binary Trees in DSA.
+ 
+<!--END_SECTION:activity-->
+
+---
+
+## 🌐 **How to Reach Me**
+<p align="center">
+  <a href="https://www.instagram.com/its_sumitch/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:cseews2303@glbitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-chaubey-33308a24b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://isumit22.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎉 **Thank You for Visiting!**  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&background=1A1B27&center=true&vCenter=true&width=500&lines=Keep+Learning+%26+Keep+Growing;B.Tech+Student+on+a+Mission!;Happy+Coding+%F0%9F%92%BB" />
+</p>
