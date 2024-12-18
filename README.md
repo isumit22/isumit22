@@ -29,11 +29,13 @@
 <p align="center">
   ## 📊 GitHub Stats:
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=isumit22&theme=dark)](https://git.io/streak-stats)
+
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=isumit22)](https://git.io/streak-stats)
+
 </p>
 
 ---
