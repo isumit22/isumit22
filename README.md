@@ -33,7 +33,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isumit22)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=isumit22)](https://git.io/streak-stats)
 </p>
 
 ---
