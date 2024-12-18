@@ -27,9 +27,13 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&theme=tokyonight" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isumit22&theme=tokyonight" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=tokyonight" width="49.5%"/>
+  ## 📊 GitHub Stats:
+
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
+
+
 </p>
 
 ---
