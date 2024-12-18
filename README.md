@@ -53,6 +53,7 @@
 <!--START_SECTION:activity-->
 1. 💡 Built and launched my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!
 2. 📖 Learned about Linked Lists and Binary Trees in DSA.
+3. 💻 Created a responsive landing page using HTML, CSS, and JavaScript for a fictional product launch.
  
 <!--END_SECTION:activity-->
 
