@@ -81,5 +81,5 @@
 
 ### 🎉 **Thank You for Visiting!**  
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&background=1A1B27&center=true&vCenter=true&width=500&lines=Keep+Learning+%26+Keep+Growing;B.Tech+Student+on+a+Mission!;Happy+Coding+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&background=1A1B27&center=true&vCenter=true&width=500&lines=Turning caffeine into code!;Code. Commit. Repeat.;Happy+Coding+%F0%9F%92%BB" />
 </p>
