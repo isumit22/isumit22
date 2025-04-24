@@ -34,7 +34,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=isumit22&theme=react-dark)
+
 </p>
 
 
