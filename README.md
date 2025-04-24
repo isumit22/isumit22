@@ -34,7 +34,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=isumit22&theme=react-dark)
 </p>
 
 
