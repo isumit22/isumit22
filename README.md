@@ -34,13 +34,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
 
-
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&hide_title=true&count_private=true&theme=dark)
 </p>
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isumit22/isumit22/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
+
 
 ---
 
