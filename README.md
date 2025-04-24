@@ -36,6 +36,11 @@
 
 
 </p>
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isumit22/isumit22/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
