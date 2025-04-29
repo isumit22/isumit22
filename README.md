@@ -2,7 +2,7 @@
 <h3 align="center">A Student at GL Bajaj Institute | Aspiring Developer 🚀</h3>
 
 <p align="center">
-  🌱 I’m currently learning <b>C++</b> and exploring <b>Data Structures & Algorithms</b><br>
+  🌱 I’m currently learning <b>Java</b> and exploring <b>Data Structures & Algorithms</b><br>
   💡 Interested in <b>Web Development</b> and building user-friendly applications.<br>
   💼 Pursuing my <b>B.Tech</b> at GL Bajaj Institute.<br>
   😍 Check out my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!<br>
@@ -44,7 +44,7 @@
 
 ## 🚀 **My Coding Journey**
 ```plaintext
-| 📆  Started coding in C and C++ during my B.Tech at GL Bajaj Institute.
+| 📆  Started coding in C,C++ and Java during my B.Tech at GL Bajaj Institute.
 | 🚀  Currently mastering DSA to improve problem-solving skills.
 | 💡  Building projects and exploring front-end web technologies.
 | 🔭  Check out my portfolio for live projects!
