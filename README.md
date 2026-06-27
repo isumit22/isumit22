@@ -1,71 +1,87 @@
 <h1 align="center">Hi 👋, I'm Sumit Chaubey</h1>
-<h3 align="center">A Student at GL Bajaj Institute | Aspiring Developer 🚀</h3>
+<h3 align="center">Full Stack MERN Developer | AI Enthusiast | B.Tech CSE Student at GL Bajaj Institute 🚀</h3>
 
 <p align="center">
-  🌱 I’m currently learning <b>C++</b> and exploring <b>Data Structures & Algorithms</b><br>
-  💡 Interested in <b>Web Development</b> and building user-friendly applications.<br>
-  💼 Pursuing my <b>B.Tech</b> at GL Bajaj Institute.<br>
-  😍 Check out my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!<br>
-  🙂 Pronouns: He/His<br>
-  ⚡ Fun fact: I love solving puzzles and coding challenges! 💼
+  💻 Passionate about building scalable full-stack web applications.<br>
+  🌱 Currently strengthening my Data Structures & Algorithms and Backend Development skills.<br>
+  🤖 Interested in AI-powered applications, system design, and real-time web technologies.<br>
+  🚀 Love transforming ideas into production-ready projects.<br>
+  🌐 Portfolio: <a href="https://isumit22.github.io/Portfolio/" target="_blank">isumit22.github.io/Portfolio</a>
 </p>
 
 ---
 
-## 🛠 **Tech Stack & Tools**
-<p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/C%20-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <!-- Web Dev --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <!-- Tools & Platforms --> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> <!-- Competitive Programming --> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /> <!-- ML / AI (used in Swachh project) --> <img src="https://img.shields.io/badge/ResNet--50-4B8BBE?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Hackathon-8A2BE2?style=flat-square&logo=google&logoColor=white" /> </p>
+## 🛠 Tech Stack & Tools
+
+<!-- Keep all your existing badges exactly as they are -->
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
+
 <p align="center">
-  ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=isumit22&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=isumit22\&theme=dark)](https://git.io/streak-stats)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isumit22\&layout=compact\&theme=dark)
 
 </p>
 
+---
 
+## 🚀 Featured Projects
 
+### 💬 Connectify
+
+A full-stack real-time chat platform built with the MERN stack featuring secure authentication, friend management, media sharing, email verification, and real-time messaging using Socket.IO.
+
+### ♻️ Swachh
+
+AI-powered Smart Waste Management platform developed for hackathons featuring waste image classification using ResNet-50, complaint management, live tracking, dashboards, and reward-based recycling.
+
+### 🌐 Sangam Motors Website
+
+Designed and developed a modern responsive business website with an elegant UI, optimized performance, and deployment for a real client.
 
 ---
 
-## 🚀 **My Coding Journey**
-```plaintext
-| 📆  Started coding in C,C++ and Java during my B.Tech at GL Bajaj Institute.
-| 🚀  Currently mastering DSA to improve problem-solving skills.
-| 💡  Building projects and exploring front-end web technologies.
-| 🔭  Check out my portfolio for live projects!
-| 🔥  Aiming to contribute to open-source and collaborate with developers worldwide.
+## 💡 What I'm Currently Working On
+
+```text
+🚀 Building scalable MERN Stack applications
+🧠 Improving DSA & problem-solving skills
+🤖 Exploring AI integration in web applications
+⚡ Learning Backend Architecture & REST APIs
+☁️ Deploying full-stack applications on Render & Vercel
 ```
 
 ---
 
-## 📂 **Recent Activity**
-<!--START_SECTION:activity-->
-1. 💡 Built and launched my <a href="https://isumit22.github.io/Portfolio/" target="_blank">Portfolio Website</a>!
-2. 📖 Learned about Linked Lists and Binary Trees in DSA.
-3. 💻 Created a responsive landing page using HTML, CSS, and JavaScript for a fictional product launch.
- 
-<!--END_SECTION:activity-->
+## 🌱 Currently Learning
+
+* Advanced MERN Stack
+* Data Structures & Algorithms
+* MongoDB Performance Optimization
+* REST APIs & Authentication
+* System Design Fundamentals
 
 ---
 
-## 🌐 **How to Reach Me**
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.instagram.com/its_sumitch/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="mailto:cseews2303@glbitm.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/sumit-chaubey-33308a24b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://isumit22.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -73,7 +89,8 @@
 
 ---
 
-### 🎉 **Thank You for Visiting!**  
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&background=1A1B27&center=true&vCenter=true&width=500&lines=Turning+caffeine+into+code!+&#9749;;Code.+Commit.+Repeat.;Happy+Coding+%F0%9F%92%BB" />
+### 🎯 Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&background=1A1B27&center=true&vCenter=true&width=520&lines=Building+ideas+into+real+products.;Full+Stack+Developer+%7C+MERN+Stack.;Always+Learning.+Always+Building.;Code.+Build.+Deploy.+Repeat.🚀" />
 </p>
