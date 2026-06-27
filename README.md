@@ -71,13 +71,13 @@ A responsive business website developed for a real automobile dealership with a 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=isumit22&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isumit22&show_icons=true&theme=dark&hide_border=true&rank_icon=github"/>
+
 
 <img height="170" src="https://streak-stats.demolab.com?user=isumit22&theme=dark&hide_border=true"/>
 
